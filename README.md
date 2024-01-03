@@ -1,8 +1,8 @@
 # PreRequisites
  Visual studio 2022 with .net 7.0
 # Technology used 
-  1- Asp .net core api 7.0
-  2- MS SQL Server
+  ### Asp .net core api 7.0
+  ### MS SQL Server
 # Installation
  1- clone the Repository
  2- open folder CategoryAndItemApi
