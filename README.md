@@ -1,5 +1,5 @@
 # PreRequisites
- Visual studio 2022 with .net 7.0
+Visual studio 2022 with .net 7.0
 # Technology used 
   ### Asp .net core api 7.0
   ### MS SQL Server
@@ -33,7 +33,8 @@
     Action PUT https://localhost:7087/api/Items/10
     delete Item
     Action DELETE https://localhost:7087/api/Items/10
-
+![Screenshot (189)](https://github.com/mohamedKamel2020/Category-and-Items-Api-/assets/88276377/80c367a2-ce1e-486d-99b5-c015fee61ee2)
+ 
     
     
 Add
