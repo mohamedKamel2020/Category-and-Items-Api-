@@ -1,0 +1,24 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\refint\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\1-ASP.NET\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\ref\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\bin\Debug\net7.0\CategoryAndItemAPI.DAL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\refint\CategoryAndItemAPI.DAL.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\CategoryAndItemAPI.DAL.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Task Category Api\CategoryAndItemAPI\CategoryAndItemAPI.DAL\obj\Debug\net7.0\ref\CategoryAndItemAPI.DAL.dll
